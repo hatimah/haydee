@@ -1,0 +1,58 @@
+body{
+    margin: 0px;
+}
+h1{
+margin: 0;
+}
+.bio
+{background-color: aquamarine;
+    width: 250px;
+    height: 100px;
+margin-left: 265px;
+margin-bottom: -135px;
+    text-align: center;
+    line-height: 70px;
+     font-size: 30px;
+}
+.photos{
+    background-color:red;
+    width:250px;
+    height:100px;
+    text-align: center;
+    margin-left: 765px;
+     line-height: 70px;
+      font-size: 30px;
+      margin-bottom: -35px;
+}
+.educ{
+    background-color: blueviolet;
+    width:  250px;
+    height: 100px;
+    margin:0 auto;
+    text-align: center;
+     line-height: 70px;
+     font-size: 30px;
+    
+}
+.hobbies{
+    background-color:gray;
+    width: 250px;
+    height: 100px;
+    margin-left: 763px;
+    text-align: center;
+     line-height: 70px;
+ font-size: 30px;
+ margin-top: -35px;
+}
+.contact{
+    background-color: midnightblue;
+     width: 256px;
+    height: 106px;
+    margin-left: 260px;
+    margin-top: -136px;
+    text-align: center;
+     line-height: 70px;
+     font-size: 30px;
+}
+ 
+
